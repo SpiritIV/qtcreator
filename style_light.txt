@@ -1,0 +1,1 @@
+QPushButton { background-color: grey; color: black; font-size: 14px } QPushButton:pressed { background-color: black; color: white; font-size: 15px } QMainWindow { background-color: white; color: white}
